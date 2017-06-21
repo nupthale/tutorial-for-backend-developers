@@ -14,7 +14,7 @@
 
     * 【不建议修改】javascript/lib：依赖库目录，里面有regular、echarts、nek-ui、nej等；
 
-    * 【不建议修改】javascript/widget：BaseComponent、全局filter、全局directive指令；所有js组件的基类都是这里的BaseComponnent；后面会详细介绍这些类；
+    * 【不建议修改】javascript/widget：BaseComponent、全局filter、全局directive指令；所有js组件的基类都是这里的BaseComponnent；后面会详细介绍这些基础最贱；
 
     * **javascript/page**：页面的js文件；基本上一个页面的全部js逻辑都写在对应的目录下；在这里可以找到一个页面的完整的结构+样式+行为；
 
