@@ -4,6 +4,6 @@
 2. npm是node的包管理工具，设置淘宝源，下载速度快；`npm config set registry`[`https://registry.npm.taobao.org`](https://registry.npm.taobao.org)
 3. 执行：`npm install -g nek`安装前端页面脚手架nek；
 4. 一般工程内都已经配置了nek的配置文件，如果没有，找前端配置；
-
+5. 
 
 
