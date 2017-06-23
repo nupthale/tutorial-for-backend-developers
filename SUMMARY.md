@@ -12,6 +12,8 @@
   * [3.2.html模板语法](3regularjsji-chu/31htmlmo-ban-bu-fen.md)
   * [3.3.js组件语法](3regularjsji-chu/32js.md)
 * [4.NEKUI用法模板](4nekuichang-jian-yong-fa.md)
+  * [4.1.列表页模板](4nekuichang-jian-yong-fa/41lie-biao-ye.md)
+  * [4.2.详情页模板](4nekuichang-jian-yong-fa/42xiang-qing-ye-mo-ban.md)
 * [5.页面实例](5ye-mian-shi-li.md)
 * [6.常见问题](6chang-jian-wen-ti.md)
 
