@@ -8,7 +8,7 @@
   * [2.3. 前端文件规范](chapter1/qian-duan-wen-jian-gui-fan.md)
   * [2.4. 开发页面的步骤](chapter1/kai-fa-ye-mian-de-bu-zou.md)
 * [3.RegularJS基础](3regularjsji-chu.md)
-  * 3.1.快速起步
+  * [3.1.快速起步](3regularjsji-chu/31kuai-su-qi-bu.md)
   * [3.2.html模板语法](3regularjsji-chu/31htmlmo-ban-bu-fen.md)
   * [3.3.js组件语法](3regularjsji-chu/32js.md)
 * [4.NEKUI用法模板](4nekuichang-jian-yong-fa.md)
