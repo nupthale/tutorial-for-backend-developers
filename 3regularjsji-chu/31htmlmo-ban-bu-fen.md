@@ -1,6 +1,6 @@
 # html模板语法
 
-> 官方文档：http://regularjs.github.io/reference/?syntax-zh
+> 官方文档：[http://regularjs.github.io/reference/?syntax-zh](http://regularjs.github.io/reference/?syntax-zh)
 
 ### {}插值表达式里面都能写什么？
 
@@ -56,7 +56,6 @@ Regular.filter( "lowercase" , function(obj, num, username) {
 };
 
 <div>{ obj | lowercase:1,username }</div>
-
 ```
 
 
