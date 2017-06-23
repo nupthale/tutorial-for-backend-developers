@@ -15,7 +15,7 @@
 
 ```
 template: 组件的模板
-data: component组件的初始化状态；
+data: component组件的初始化状态
 $inject方法：会将组件插入到目标节点的位置
 ```
 
