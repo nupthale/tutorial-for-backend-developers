@@ -15,7 +15,19 @@
 ## BaseModal\(各工程可能路径不同\)
 
 * 路径：src/javascript/component/modal/index.js
-* 作用：
+* 3种用法：
+  * 如果弹框模板只是一句文案，可以直接使用BaseModal的静态方法BaseModal.confirm\(xxx\), BaseModal.alert\(xxx\);
+  * 如果不仅是一句文案，但模板也比较简单，可以直接
+  * ```
+    var modal = new BaseModal({
+        data: {
+            contentTemplate: 'xxxx'
+        }
+    });
+    modal.$on('ok', function() {
+        // 直接逻辑
+    });
+    ```
 
 
 
