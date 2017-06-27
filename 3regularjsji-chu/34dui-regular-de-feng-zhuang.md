@@ -25,7 +25,8 @@
         }
     });
     modal.$on('ok', function() {
-        // 直接逻辑
+        // 处理逻辑
+        // 可以通过modal.data.xxx访问到contentTemplate中写的数据
     });
     ```
 
