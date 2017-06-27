@@ -10,7 +10,7 @@
 ## ListComponent
 
 * 路径：src/javascript/component/NEKListComponent.js
-* 作用：对列表分页、请求数据的封装；需要分页的列表，只需要继承ListComponent，就不需要处理分页相关的数据逻辑；请求数据也可以直接调用this.\_\_getList\(\)方法；
+* 作用：对列表分页、请求数据的封装；需要分页的列表，只需要继承ListComponent，就不需要处理分页相关的数据逻辑；请求数据也可以直接调用this._getList\(\)方法；如果默认的返回结果处理函数\_\__bodyResolver不能满足需求，可在子组件内override这个函数；
 
 ## BaseModal
 
