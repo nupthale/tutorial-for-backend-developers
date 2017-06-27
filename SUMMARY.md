@@ -11,6 +11,7 @@
   * [3.1.快速起步](3regularjsji-chu/31kuai-su-qi-bu.md)
   * [3.2.html模板语法](3regularjsji-chu/31htmlmo-ban-bu-fen.md)
   * [3.3.js组件语法](3regularjsji-chu/32js.md)
+  * 3.4.对Regular的封装
 * [4.NEKUI用法模板](4nekuichang-jian-yong-fa.md)
   * [4.1.列表页模板](4nekuichang-jian-yong-fa/41lie-biao-ye.md)
   * [4.2.详情页模板](4nekuichang-jian-yong-fa/42xiang-qing-ye-mo-ban.md)
