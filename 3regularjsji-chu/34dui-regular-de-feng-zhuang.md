@@ -17,6 +17,7 @@
 * 路径：src/javascript/component/modal/index.js
 * 3种用法：
   * 如果弹框模板只是一句文案，可以直接使用BaseModal的静态方法BaseModal.confirm\(xxx\), BaseModal.alert\(xxx\);
+  * 如果模板较复杂，则与ListComponent一样， 继承BaseModal，写自己的模板和逻辑；
   * 如果不仅是一句文案，但模板也比较简单，可以直接
   * ```
     var modal = new BaseModal({
@@ -29,6 +30,8 @@
         // 可以通过modal.data.xxx访问到contentTemplate中写的数据
     });
     ```
+
+
 
 
 
