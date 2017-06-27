@@ -22,16 +22,15 @@
   * ```
     var modal = new BaseModal({
         data: {
-            contentTemplate: 'xxxx'
+            contentTemplate: '<ui.input value="{testValue}" />'
         }
     });
     modal.$on('ok', function() {
         // 处理逻辑
         // 可以通过modal.data.xxx访问到contentTemplate中写的数据
+        console.log(modal.data.testValue)
     });
     ```
-
-
 
 
 
