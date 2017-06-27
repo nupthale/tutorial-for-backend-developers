@@ -15,6 +15,7 @@
 ## BaseModal\(各工程可能路径不同\)
 
 * 路径：src/javascript/component/modal/index.js
+* 作用：
 
 
 
